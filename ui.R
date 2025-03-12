@@ -2,6 +2,8 @@ library(shiny)
 library(shinydashboard)
 library(plotly)
 
+# adding some comments... 
+
 dashboardPage( 
   skin = "red",
   
